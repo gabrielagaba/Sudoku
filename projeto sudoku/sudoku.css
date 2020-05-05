@@ -1,0 +1,74 @@
+corpo {
+        cor de fundo: #FAFAFA
+      }
+
+      mesa {
+        borda: 2px sólido # 000000;
+      }
+
+      td {
+        borda: 1px sólido # 000000;
+        alinhamento de texto: centro;
+        alinhamento vertical: meio;  
+      }
+
+      entrada {
+        cor: # 000000;
+        estofamento: 0;
+        borda: 0;
+        alinhamento de texto: centro;
+        largura: 48px;
+        altura: 48px;
+        tamanho da fonte: 24 px;
+        cor de fundo: #FFFFFF;
+        esboço: nenhum;
+      }
+
+      entrada: desativada {
+        cor de fundo: #EEEEEE;
+      }
+
+      # célula-0, # célula-1, # célula-2 {border-top: 2px solid # 000000; }
+      # célula-2, # célula-11, # célula-20 {border-right: 2px solid # 000000; }
+      # célula-18, # célula-19, # célula-20 {borda inferior: 2px sólido # 000000; }
+      # célula-0, # célula-9, # célula-18 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-3, # célula-4, # célula-5 {border-top: 2px solid # 000000; }
+      # célula-5, # célula-14, # célula-23 {border-right: 2px solid # 000000; }
+      # célula-21, # célula-22, # célula-23 {borda inferior: 2px sólido # 000000; }
+      # célula-3, # célula-12, # célula-21 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-6, # célula-7, # célula-8 {border-top: 2px solid # 000000; }
+      # célula-8, # célula-17, # célula-26 {border-right: 2px solid # 000000; }
+      # célula-24, # célula-25, # célula-26 {border-bottom: 2px solid # 000000; }
+      # célula-6, # célula-15, # célula-24 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-27, # célula-28, # célula-29 {border-top: 2px solid # 000000; }
+      # célula-29, # célula-38, # célula-47 {border-right: 2px solid # 000000; }
+      # célula-45, # célula-46, # célula-47 {border-bottom: 2px solid # 000000; }
+      # célula-27, # célula-36, # célula-45 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-30, # célula-31, # célula-32 {border-top: 2px solid # 000000; }
+      # célula-32, # célula-41, # célula-50 {border-right: 2px solid # 000000; }
+      # célula-48, # célula-49, # célula-50 {border-bottom: 2px solid # 000000; }
+      # célula-30, # célula-39, # célula-48 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-33, # célula-34, # célula-35 {border-top: 2px solid # 000000; }
+      # célula-35, # célula-44, # célula-53 {border-right: 2px solid # 000000; }
+      # célula-51, # célula-52, # célula-53 {border-bottom: 2px solid # 000000; }
+      # célula-33, # célula-42, # célula-51 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-54, # célula-55, # célula-56 {border-top: 2px solid # 000000; }
+      # célula-56, # célula-65, # célula-74 {border-right: 2px solid # 000000; }
+      # célula-72, # célula-73, # célula-74 {borda inferior: 2px sólido # 000000; }
+      # célula-54, # célula-63, # célula-72 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-57, # célula-58, # célula-59 {border-top: 2px solid # 000000; }
+      # célula-59, # célula-68, # célula-77 {borda direita: 2px sólido # 000000; }
+      # célula-75, # célula-76, # célula-77 {border-bottom: 2px solid # 000000; }
+      # célula-57, # célula-66, # célula-75 {borda esquerda: 2px sólido # 000000; }
+
+      # célula-60, # célula-61, # célula-62 {border-top: 2px solid # 000000; }
+      # célula-62, # célula-71, # célula-80 {borda direita: 2px sólido # 000000; }
+      # célula-78, # célula-79, # célula-80 {borda inferior: 2px sólido # 000000; }
+      # célula-60, # célula-69, # célula-78 {borda esquerda: 2px sólido # 000000; }
