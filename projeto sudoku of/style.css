@@ -1,0 +1,84 @@
+html{
+	height: 100%;
+}
+body{
+
+	height: 100%;
+	background-image: linear-gradient( #1C1C1C, #FF0000);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.game {
+/*position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);*/
+box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+padding: 15%;
+background-color:;
+border-radius: 5px;
+background-image: linear-gradient( #1C1C1C, #FF0000);
+}
+.grid {
+display: grid;
+grid.grid-template-columns: 80px 80px 80px 80px;
+border: 1px solid #550000;
+}
+.grid button {
+background-color:	#828282;
+color: #003333;
+font-size: 24px;
+font-weight: bold;
+border: 1px solid #550000;
+
+}
+
+.footer{
+
+margin-top: 15px;
+display: flex;
+justify-content: space-between;
+
+}
+.footer button {
+margin-top: none;
+font-size: 20px;
+font-weight: bold;
+border-radius: 5px;
+box-shadow: 01p 4px rgba (0,0,0,0.5);
+padding: 5px;
+width: 80px;
+background-color:;
+color: #D4EE9F;
+outline: none;
+cursor: pointer;
+background-image: linear-gradient( #1C1C1C, #FF0000);
+
+
+
+}
+.footer button:hover{
+color: #D4EE9F;
+background-color: #003333;
+background-image: linear-gradient( #1C1C1C, #FF0000);
+
+}
+.footer span{
+	background-image: linear-gradient( #1C1C1C, #FF0000);
+
+	flex: 1;
+	text-align: center;
+	font-size: 20px;
+	color: #D4EE9F;
+	font-weight: bold;
+	margin: auto 0;
+}
+.message{
+	color: #D4EE9F;
+	height: 80px;
+	background-image: linear-gradient( #1C1C1C, #FF0000);
+
+}
