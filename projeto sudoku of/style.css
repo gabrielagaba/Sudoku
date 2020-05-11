@@ -24,13 +24,13 @@ background-image: linear-gradient( #1C1C1C, #FF0000);
 }
 .grid {
 display: grid;
-grid.grid-template-columns: 80px 80px 80px 80px;
+grid-template-columns: 80px 80px 80px 80px;
 border: 1px solid #550000;
 }
 .grid button {
 background-color:	#828282;
 color: #003333;
-font-size: 24px;
+font-size: 20px;
 font-weight: bold;
 border: 1px solid #550000;
 
@@ -48,7 +48,7 @@ margin-top: none;
 font-size: 20px;
 font-weight: bold;
 border-radius: 5px;
-box-shadow: 01p 4px rgba (0,0,0,0.5);
+box-shadow: 01px 4px (0,0,0,0.5);
 padding: 5px;
 width: 80px;
 background-color:;
@@ -60,7 +60,8 @@ background-image: linear-gradient( #1C1C1C, #FF0000);
 
 
 }
-.footer button:hover{
+.footer button:
+hover{
 color: #D4EE9F;
 background-color: #003333;
 background-image: linear-gradient( #1C1C1C, #FF0000);
